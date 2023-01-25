@@ -1,0 +1,24 @@
+{
+  "name": "rigima",
+  "version": "1.0.0",
+  "description": "rigima, a little useful library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e6nlaq/rigima.js.git"
+  },
+  "keywords": [
+    "rigima",
+    "rigima.js",
+    "function"
+  ],
+  "author": "e6nlaq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e6nlaq/rigima.js/issues"
+  },
+  "homepage": "https://github.com/e6nlaq/rigima.js#readme"
+}
